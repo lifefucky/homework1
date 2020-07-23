@@ -5,21 +5,12 @@
     <select>
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1d424c35-d569-4c2c-b9dd-8386ac6687e2" name="Default Changelist" comment="added task1">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson3_task.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task1.py" beforeDir="false" afterPath="$PROJECT_DIR$/task1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/task2.py" beforeDir="false" afterPath="$PROJECT_DIR$/task2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/task3.py" beforeDir="false" afterPath="$PROJECT_DIR$/task3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/task4.py" beforeDir="false" afterPath="$PROJECT_DIR$/task4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/task5.py" beforeDir="false" afterPath="$PROJECT_DIR$/task5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/task6.py" beforeDir="false" afterPath="$PROJECT_DIR$/task6.py" afterDir="false" />
-    </list>
+    <list default="true" id="1d424c35-d569-4c2c-b9dd-8386ac6687e2" name="Default Changelist" comment="lesson 3 task completed" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,6 +25,12 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
         <entry key="$PROJECT_DIR$" value="LESSON3" />
@@ -78,7 +75,14 @@
       <option name="project" value="LOCAL" />
       <updated>1594907166532</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="lesson 3 task completed">
+      <created>1595507004043</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1595507004043</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -95,7 +99,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added task1" />
-    <option name="LAST_COMMIT_MESSAGE" value="added task1" />
+    <MESSAGE value="lesson 3 task completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson 3 task completed" />
   </component>
   <component name="WindowStateProjectService">
     <state x="184" y="98" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594907459487">
@@ -126,10 +131,10 @@
       <screen x="0" y="23" width="1440" height="826" />
     </state>
     <state width="500" height="445" key="SwitcherDM/0.23.1440.826@0.23.1440.826" timestamp="1595506390688" />
-    <state x="320" y="176" key="Vcs.Push.Dialog.v2" timestamp="1595506704396">
+    <state x="320" y="176" key="Vcs.Push.Dialog.v2" timestamp="1595506937880">
       <screen x="0" y="23" width="1440" height="826" />
     </state>
-    <state x="320" y="176" key="Vcs.Push.Dialog.v2/0.23.1440.826@0.23.1440.826" timestamp="1595506704396" />
+    <state x="320" y="176" key="Vcs.Push.Dialog.v2/0.23.1440.826@0.23.1440.826" timestamp="1595506937880" />
     <state x="120" y="143" width="1200" height="586" key="com.intellij.history.integration.ui.views.RecentChangeDialog" timestamp="1595506771276">
       <screen x="0" y="23" width="1440" height="826" />
     </state>
