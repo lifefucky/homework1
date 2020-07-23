@@ -1,30 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BranchesTreeState">
-    <expand>
+    <expand />
+    <select>
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
       </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-    </expand>
-    <select />
+    </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1d424c35-d569-4c2c-b9dd-8386ac6687e2" name="Default Changelist" comment="added task1" />
+    <list default="true" id="1d424c35-d569-4c2c-b9dd-8386ac6687e2" name="Default Changelist" comment="added task1">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson3_task.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task1.py" beforeDir="false" afterPath="$PROJECT_DIR$/task1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task2.py" beforeDir="false" afterPath="$PROJECT_DIR$/task2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task3.py" beforeDir="false" afterPath="$PROJECT_DIR$/task3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task4.py" beforeDir="false" afterPath="$PROJECT_DIR$/task4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task5.py" beforeDir="false" afterPath="$PROJECT_DIR$/task5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task6.py" beforeDir="false" afterPath="$PROJECT_DIR$/task6.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ChangesViewManager" show_ignored="true" />
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -33,6 +34,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="LESSON3" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1elrTMKHt6n3SOHMTOWPhUfp0FW" />
@@ -85,6 +91,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added task1" />
@@ -95,9 +102,45 @@
       <screen x="0" y="23" width="1440" height="826" />
     </state>
     <state x="184" y="98" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.826@0.23.1440.826" timestamp="1594907459487" />
+    <state width="689" height="201" key="GridCell.Tab.0.bottom" timestamp="1595506148221">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state width="689" height="201" key="GridCell.Tab.0.bottom/0.23.1440.826@0.23.1440.826" timestamp="1595506148221" />
+    <state width="689" height="201" key="GridCell.Tab.0.center" timestamp="1595506148220">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state width="689" height="201" key="GridCell.Tab.0.center/0.23.1440.826@0.23.1440.826" timestamp="1595506148220" />
+    <state width="689" height="201" key="GridCell.Tab.0.left" timestamp="1595506148220">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state width="689" height="201" key="GridCell.Tab.0.left/0.23.1440.826@0.23.1440.826" timestamp="1595506148220" />
+    <state width="689" height="201" key="GridCell.Tab.0.right" timestamp="1595506148221">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state width="689" height="201" key="GridCell.Tab.0.right/0.23.1440.826@0.23.1440.826" timestamp="1595506148221" />
     <state x="229" y="75" key="SettingsEditor" timestamp="1594907158994">
       <screen x="0" y="23" width="1440" height="826" />
     </state>
     <state x="229" y="75" key="SettingsEditor/0.23.1440.826@0.23.1440.826" timestamp="1594907158994" />
+    <state width="500" height="445" key="SwitcherDM" timestamp="1595506390688">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state width="500" height="445" key="SwitcherDM/0.23.1440.826@0.23.1440.826" timestamp="1595506390688" />
+    <state x="320" y="176" key="Vcs.Push.Dialog.v2" timestamp="1595506704396">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state x="320" y="176" key="Vcs.Push.Dialog.v2/0.23.1440.826@0.23.1440.826" timestamp="1595506704396" />
+    <state x="120" y="143" width="1200" height="586" key="com.intellij.history.integration.ui.views.RecentChangeDialog" timestamp="1595506771276">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state x="120" y="143" width="1200" height="586" key="com.intellij.history.integration.ui.views.RecentChangeDialog/0.23.1440.826@0.23.1440.826" timestamp="1595506771276" />
+    <state x="511" y="357" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1595506771253">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state x="511" y="357" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.826@0.23.1440.826" timestamp="1595506771253" />
+    <state x="369" y="159" width="700" height="530" key="recent.locations.popup" timestamp="1595506406408">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state x="369" y="159" width="700" height="530" key="recent.locations.popup/0.23.1440.826@0.23.1440.826" timestamp="1595506406408" />
   </component>
 </project>

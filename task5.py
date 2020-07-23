@@ -1,28 +1,29 @@
-"""Реализовать структуру «Рейтинг», представляющую собой не возрастающий набор натуральных чисел.
-У пользователя необходимо запрашивать новый элемент рейтинга.
-Если в рейтинге существуют элементы с одинаковыми значениями,
-то новый элемент с тем же значением должен разместиться после них."""
-
-array = []
+"""5. Программа запрашивает у пользователя строку чисел, разделенных пробелом.
+При нажатии Enter должна выводиться сумма чисел.
+Пользователь может продолжить ввод чисел, разделенных пробелом и снова нажать Enter.
+Сумма вновь введенных чисел будет добавляться к уже подсчитанной сумме.
+Но если вместо числа вводится специальный символ, выполнение программы завершается.
+Если специальный символ введен после нескольких чисел, то вначале нужно добавить
+сумму этих чисел к полученной ранее сумме и после этого завершить программу."""
+exit_sum = 0
+def user_sum(user_numbers):
+    user_continue = 1
+    global exit_sum
+    for itm in user_numbers:
+        try:
+            exit_sum+=float(itm)
+        except ValueError as v:
+            if itm=='q':
+                user_continue=0
+                break
+            else:
+                continue
+    return user_continue
 
 
 while True:
-    user_input = input("Please insert new element, press a letter or symbol to quit\n")
-    if not user_input.isdigit():
+    user_inputs = input("Введите числа, разделенные пробелом (если список закончился, введите q):\n").split(' ')
+    to_continue = user_sum(user_inputs)
+    print(exit_sum)
+    if not to_continue:
         break
-    else:
-        user_input = int(user_input)
-    if len(array)==0:
-        array.append(user_input)
-        continue
-    for idx in range(len(array)):
-        is_bigger = 0
-        user_index = idx
-        if user_input>array[idx]:
-            is_bigger=1
-            break
-    if is_bigger:
-        array.insert(user_index,user_input)
-    else:
-        array.append(user_input)
-    print(array)

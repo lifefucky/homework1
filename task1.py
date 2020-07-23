@@ -1,9 +1,37 @@
-"""Создать список и заполнить его элементами различных типов данных.
-Реализовать скрипт проверки типа данных каждого элемента.
-Использовать функцию type() для проверки типа.
-Элементы списка можно не запрашивать у пользователя, а указать явно, в программе."""
+"""1. Реализовать функцию, принимающую два числа (позиционные аргументы) и выполняющую их деление.
+Числа запрашивать у пользователя, предусмотреть обработку ситуации деления на ноль."""
 
-array = [5, 1.1, True, 'dumpling',  ('б', 'у', 'к','в','а')]
+def num_division(a, b):
+    try:
+        c = float(a)/float(b)
+        return c
+    except ZeroDivisionError as e:
+        print('Division by zero')
+        pass
+    except ValueError as v:
+        print("Incorrect input")
+        pass
 
-for i in array:
-    print(f'{i}: Type is {type(i)}')
+
+
+
+while True:
+    user_continue = 0
+    a, b = input("Please insert numbers:\n").split(' ')
+    if not num_division(a, b) is None:
+        print(f'{num_division(a, b):.2f}')
+    ans = input("Continue?y/n\n").lower()
+    if ans in ('y','n'):
+        if ans == 'n':
+            break
+
+
+
+
+
+
+
+
+
+
+

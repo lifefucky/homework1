@@ -1,25 +1,20 @@
-"""Пользователь вводит месяц в виде целого числа от 1 до 12.
-Сообщить к какому времени года относится месяц (зима, весна, лето, осень).
-Напишите решения через list и через dict."""
+"""3. Реализовать функцию my_func(), которая принимает три позиционных аргумента, и возвращает сумму
+наибольших двух аргументов."""
 
-numb = input("insert number\n")
-
-while True:
-    if numb.isdigit():
-        numb = int(numb)
-        break
+def my_func(*d):
+    try:
+        d = [float(i) for i in d]
+    except ValueError as v:
+        d = [float(i) for i in d if i.isdigit()]
+    d.sort()
+    if len(d)>1:
+        ans = d[-2]+d[-1]
     else:
-        print('Incorrect input. Try again')
+        ans = d[0] if len(d)>0 else print("No numbers in list")
+    return ans
 
+a,b,c = input("Введите три числа, разделенные пробелом:\n").split(' ')
 
-seasons = {
-    'зима': (12,1,2),
-    'весна': (3,4,5),
-    'лето': (6,7,8),
-    'осень': (9,10,11)
-}
+if not my_func(a,b,c) is None:
+    print(my_func(a,b,c))
 
-for key, value in seasons.items():
-    if numb in value:
-        print(key)
-        break

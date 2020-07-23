@@ -1,51 +1,15 @@
-"""Реализовать структуру данных «Товары».
-Она должна представлять собой список кортежей.
-Каждый кортеж хранит информацию об отдельном товаре.
-В кортеже должно быть два элемента — номер товара и словарь с параметрами
-(характеристиками товара: название, цена, количество, единица измерения).
-Структуру нужно сформировать программно, т.е. запрашивать все данные у пользователя."""
+"""
+Реализовать функцию int_func(), принимающую слово из маленьких латинских букв и
+возвращающую его же, но с прописной первой буквой. Например, print(int_func(‘text’)) -> Text.
+Продолжить работу над заданием.
+В программу должна попадать строка из слов, разделенных пробелом.
+Каждое слово состоит из латинских букв в нижнем регистре.
+Сделать вывод исходной строки, но каждое слово должно начинаться с заглавной буквы.
+Необходимо использовать написанную ранее функцию int_func().
+"""
+def int_func(word:str):
+    return ''.join((word[0].upper(), word[1:]))
 
-product_template  = {
-    'Names':('ProductName',str),
-    'Prices':('Price', float),
-    'Quantity':('Quantity', int),
-    'Definition':('Definition value', str)
-}
 
-user_products = []
-auto_inc = 1
-
-while True:
-    next_product=0
-    product = {}
-    for key, value in product_template.items():
-        while True:
-            user_input = input(f'Please insert {value[0]}')
-            user_input = value[1](user_input)
-            product[key] = user_input
-            break
-    user_products.append((auto_inc, product))
-    auto_inc+=1
-    
-    while True:
-        user_continue = input("Continue insert? Y/N")
-        if user_continue.lower()=='y':
-            next_product = 1
-            break
-        elif user_continue.lower()=='n':
-            break
-        else:
-            print('Incorrect input!')
-    if next_product==0:
-        break
-
-product_output = {}
-
-for i in product_template:
-    array =[]
-    for j in user_products:
-        array.append(j[1][i])
-    product_output[i] = array
-
-print(product_output)
-
+user_insert=input("Введите строку из слов в нижнем регистре, разделенных пробелом:\n").split(' ')
+print(' '.join(map(int_func,user_insert)))
