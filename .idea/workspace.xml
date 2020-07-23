@@ -1,25 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BranchesTreeState">
-    <expand>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
+    <expand />
+    <select>
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
       </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-    </expand>
-    <select />
+    </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1d424c35-d569-4c2c-b9dd-8386ac6687e2" name="Default Changelist" comment="added task1" />
+    <list default="true" id="1d424c35-d569-4c2c-b9dd-8386ac6687e2" name="Default Changelist" comment="added task1">
+      <change beforePath="$PROJECT_DIR$/task1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task6.py" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,6 +31,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1elrTMKHt6n3SOHMTOWPhUfp0FW" />
@@ -85,6 +88,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="added task1" />
@@ -99,5 +103,13 @@
       <screen x="0" y="23" width="1440" height="826" />
     </state>
     <state x="229" y="75" key="SettingsEditor/0.23.1440.826@0.23.1440.826" timestamp="1594907158994" />
+    <state x="320" y="176" key="Vcs.Push.Dialog.v2" timestamp="1595507416546">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state x="320" y="176" key="Vcs.Push.Dialog.v2/0.23.1440.826@0.23.1440.826" timestamp="1595507416546" />
+    <state x="511" y="357" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1595507459928">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state x="511" y="357" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.826@0.23.1440.826" timestamp="1595507459928" />
   </component>
 </project>
