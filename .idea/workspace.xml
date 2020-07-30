@@ -10,7 +10,21 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1d424c35-d569-4c2c-b9dd-8386ac6687e2" name="Default Changelist" comment="LESSON 4 FINISHED" />
+    <list default="true" id="1d424c35-d569-4c2c-b9dd-8386ac6687e2" name="Default Changelist" comment="Deleted old files">
+      <change afterPath="$PROJECT_DIR$/TASK1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TASK2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TASK3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TASK4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TASK5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TASK6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TASK7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sample_text2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sample_text3.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sample_text4.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sample_text6.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,6 +53,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1elrTMKHt6n3SOHMTOWPhUfp0FW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -51,7 +66,28 @@
     <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.TASK7">
+  <component name="RunManager" selected="Python.TASK6">
+    <configuration name="TASK2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="homework1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TASK2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="TASK3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="homework1" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -136,34 +172,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="TASK7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="homework1" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TASK7.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.TASK7" />
         <item itemvalue="Python.TASK6" />
         <item itemvalue="Python.TASK5" />
-        <item itemvalue="Python.TASK4" />
         <item itemvalue="Python.TASK3" />
+        <item itemvalue="Python.TASK4" />
+        <item itemvalue="Python.TASK2" />
       </list>
     </recent_temporary>
   </component>
@@ -213,7 +228,14 @@
       <option name="project" value="LOCAL" />
       <updated>1595854272022</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Deleted old files">
+      <created>1596090511066</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1596090511066</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -233,49 +255,54 @@
     <MESSAGE value="lesson 3 task completed" />
     <MESSAGE value="LESSON 4 BEGAN" />
     <MESSAGE value="LESSON 4 FINISHED" />
-    <option name="LAST_COMMIT_MESSAGE" value="LESSON 4 FINISHED" />
+    <MESSAGE value="Deleted old files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Deleted old files" />
   </component>
   <component name="WindowStateProjectService">
     <state x="184" y="98" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594907459487">
       <screen x="0" y="23" width="1440" height="826" />
     </state>
     <state x="184" y="98" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.826@0.23.1440.826" timestamp="1594907459487" />
-    <state width="689" height="201" key="GridCell.Tab.0.bottom" timestamp="1595854242359">
-      <screen x="0" y="23" width="1440" height="828" />
+    <state width="689" height="201" key="GridCell.Tab.0.bottom" timestamp="1596113777920">
+      <screen x="0" y="23" width="1440" height="826" />
     </state>
-    <state width="689" height="201" key="GridCell.Tab.0.bottom/0.23.1440.826@0.23.1440.826" timestamp="1595790884696" />
+    <state width="689" height="201" key="GridCell.Tab.0.bottom/0.23.1440.826@0.23.1440.826" timestamp="1596113777920" />
+    <state width="689" height="201" key="GridCell.Tab.0.bottom/0.23.1440.827@0.23.1440.827" timestamp="1596094985560" />
     <state width="689" height="201" key="GridCell.Tab.0.bottom/0.23.1440.828@0.23.1440.828" timestamp="1595854242359" />
-    <state width="689" height="201" key="GridCell.Tab.0.center" timestamp="1595854242358">
-      <screen x="0" y="23" width="1440" height="828" />
+    <state width="689" height="201" key="GridCell.Tab.0.center" timestamp="1596113777919">
+      <screen x="0" y="23" width="1440" height="826" />
     </state>
-    <state width="689" height="201" key="GridCell.Tab.0.center/0.23.1440.826@0.23.1440.826" timestamp="1595790884695" />
+    <state width="689" height="201" key="GridCell.Tab.0.center/0.23.1440.826@0.23.1440.826" timestamp="1596113777919" />
+    <state width="689" height="201" key="GridCell.Tab.0.center/0.23.1440.827@0.23.1440.827" timestamp="1596094985559" />
     <state width="689" height="201" key="GridCell.Tab.0.center/0.23.1440.828@0.23.1440.828" timestamp="1595854242358" />
-    <state width="689" height="201" key="GridCell.Tab.0.left" timestamp="1595854242358">
-      <screen x="0" y="23" width="1440" height="828" />
+    <state width="689" height="201" key="GridCell.Tab.0.left" timestamp="1596113777918">
+      <screen x="0" y="23" width="1440" height="826" />
     </state>
-    <state width="689" height="201" key="GridCell.Tab.0.left/0.23.1440.826@0.23.1440.826" timestamp="1595790884695" />
+    <state width="689" height="201" key="GridCell.Tab.0.left/0.23.1440.826@0.23.1440.826" timestamp="1596113777918" />
+    <state width="689" height="201" key="GridCell.Tab.0.left/0.23.1440.827@0.23.1440.827" timestamp="1596094985559" />
     <state width="689" height="201" key="GridCell.Tab.0.left/0.23.1440.828@0.23.1440.828" timestamp="1595854242358" />
-    <state width="689" height="201" key="GridCell.Tab.0.right" timestamp="1595854242359">
-      <screen x="0" y="23" width="1440" height="828" />
+    <state width="689" height="201" key="GridCell.Tab.0.right" timestamp="1596113777919">
+      <screen x="0" y="23" width="1440" height="826" />
     </state>
-    <state width="689" height="201" key="GridCell.Tab.0.right/0.23.1440.826@0.23.1440.826" timestamp="1595790884696" />
+    <state width="689" height="201" key="GridCell.Tab.0.right/0.23.1440.826@0.23.1440.826" timestamp="1596113777919" />
+    <state width="689" height="201" key="GridCell.Tab.0.right/0.23.1440.827@0.23.1440.827" timestamp="1596094985560" />
     <state width="689" height="201" key="GridCell.Tab.0.right/0.23.1440.828@0.23.1440.828" timestamp="1595854242359" />
-    <state width="689" height="249" key="GridCell.Tab.1.bottom" timestamp="1595788423584">
+    <state width="689" height="249" key="GridCell.Tab.1.bottom" timestamp="1596112195866">
       <screen x="0" y="23" width="1440" height="826" />
     </state>
-    <state width="689" height="249" key="GridCell.Tab.1.bottom/0.23.1440.826@0.23.1440.826" timestamp="1595788423584" />
-    <state width="689" height="249" key="GridCell.Tab.1.center" timestamp="1595788423584">
+    <state width="689" height="249" key="GridCell.Tab.1.bottom/0.23.1440.826@0.23.1440.826" timestamp="1596112195866" />
+    <state width="689" height="249" key="GridCell.Tab.1.center" timestamp="1596112195866">
       <screen x="0" y="23" width="1440" height="826" />
     </state>
-    <state width="689" height="249" key="GridCell.Tab.1.center/0.23.1440.826@0.23.1440.826" timestamp="1595788423584" />
-    <state width="689" height="249" key="GridCell.Tab.1.left" timestamp="1595788423583">
+    <state width="689" height="249" key="GridCell.Tab.1.center/0.23.1440.826@0.23.1440.826" timestamp="1596112195866" />
+    <state width="689" height="249" key="GridCell.Tab.1.left" timestamp="1596112195865">
       <screen x="0" y="23" width="1440" height="826" />
     </state>
-    <state width="689" height="249" key="GridCell.Tab.1.left/0.23.1440.826@0.23.1440.826" timestamp="1595788423583" />
-    <state width="689" height="249" key="GridCell.Tab.1.right" timestamp="1595788423584">
+    <state width="689" height="249" key="GridCell.Tab.1.left/0.23.1440.826@0.23.1440.826" timestamp="1596112195865" />
+    <state width="689" height="249" key="GridCell.Tab.1.right" timestamp="1596112195866">
       <screen x="0" y="23" width="1440" height="826" />
     </state>
-    <state width="689" height="249" key="GridCell.Tab.1.right/0.23.1440.826@0.23.1440.826" timestamp="1595788423584" />
+    <state width="689" height="249" key="GridCell.Tab.1.right/0.23.1440.826@0.23.1440.826" timestamp="1596112195866" />
     <state x="229" y="75" key="SettingsEditor" timestamp="1594907158994">
       <screen x="0" y="23" width="1440" height="826" />
     </state>
@@ -284,24 +311,29 @@
       <screen x="0" y="23" width="1440" height="826" />
     </state>
     <state width="500" height="445" key="SwitcherDM/0.23.1440.826@0.23.1440.826" timestamp="1595506390688" />
-    <state x="320" y="176" key="Vcs.Push.Dialog.v2" timestamp="1596090337277">
+    <state x="320" y="176" key="Vcs.Push.Dialog.v2" timestamp="1596090521644">
       <screen x="0" y="23" width="1440" height="827" />
     </state>
     <state x="320" y="176" key="Vcs.Push.Dialog.v2/0.23.1440.826@0.23.1440.826" timestamp="1595512196888" />
-    <state x="320" y="176" key="Vcs.Push.Dialog.v2/0.23.1440.827@0.23.1440.827" timestamp="1596090337277" />
+    <state x="320" y="176" key="Vcs.Push.Dialog.v2/0.23.1440.827@0.23.1440.827" timestamp="1596090521644" />
     <state x="320" y="176" key="Vcs.Push.Dialog.v2/0.23.1440.828@0.23.1440.828" timestamp="1595854342555" />
     <state x="120" y="143" width="1200" height="586" key="com.intellij.history.integration.ui.views.RecentChangeDialog" timestamp="1595506771276">
       <screen x="0" y="23" width="1440" height="826" />
     </state>
     <state x="120" y="143" width="1200" height="586" key="com.intellij.history.integration.ui.views.RecentChangeDialog/0.23.1440.826@0.23.1440.826" timestamp="1595506771276" />
-    <state x="511" y="358" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1595854284497">
-      <screen x="0" y="23" width="1440" height="828" />
+    <state x="511" y="357" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1596113846484">
+      <screen x="0" y="23" width="1440" height="826" />
     </state>
-    <state x="511" y="357" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.826@0.23.1440.826" timestamp="1595506771253" />
+    <state x="511" y="357" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.826@0.23.1440.826" timestamp="1596113846484" />
+    <state x="511" y="358" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.827@0.23.1440.827" timestamp="1596090483254" />
     <state x="511" y="358" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.828@0.23.1440.828" timestamp="1595854284497" />
     <state x="369" y="159" width="700" height="530" key="recent.locations.popup" timestamp="1595506406408">
       <screen x="0" y="23" width="1440" height="826" />
     </state>
     <state x="369" y="159" width="700" height="530" key="recent.locations.popup/0.23.1440.826@0.23.1440.826" timestamp="1595506406408" />
+    <state x="385" y="173" width="670" height="676" key="search.everywhere.popup" timestamp="1596104196980">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state x="385" y="173" width="670" height="676" key="search.everywhere.popup/0.23.1440.826@0.23.1440.826" timestamp="1596104196980" />
   </component>
 </project>
