@@ -10,16 +10,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1d424c35-d569-4c2c-b9dd-8386ac6687e2" name="Default Changelist" comment="LESSON 4 BEGAN">
-      <change afterPath="$PROJECT_DIR$/TASK1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TASK2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TASK3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TASK4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TASK5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TASK6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TASK7.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="1d424c35-d569-4c2c-b9dd-8386ac6687e2" name="Default Changelist" comment="LESSON 4 FINISHED" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,7 +33,7 @@
     </option>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="LESSON4" />
+        <entry key="$PROJECT_DIR$" value="LESSON5" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -215,7 +206,14 @@
       <option name="project" value="LOCAL" />
       <updated>1595512188920</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="LESSON 4 FINISHED">
+      <created>1595854272022</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1595854272022</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -234,29 +232,34 @@
     <MESSAGE value="added task1" />
     <MESSAGE value="lesson 3 task completed" />
     <MESSAGE value="LESSON 4 BEGAN" />
-    <option name="LAST_COMMIT_MESSAGE" value="LESSON 4 BEGAN" />
+    <MESSAGE value="LESSON 4 FINISHED" />
+    <option name="LAST_COMMIT_MESSAGE" value="LESSON 4 FINISHED" />
   </component>
   <component name="WindowStateProjectService">
     <state x="184" y="98" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594907459487">
       <screen x="0" y="23" width="1440" height="826" />
     </state>
     <state x="184" y="98" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.826@0.23.1440.826" timestamp="1594907459487" />
-    <state width="689" height="201" key="GridCell.Tab.0.bottom" timestamp="1595790884696">
-      <screen x="0" y="23" width="1440" height="826" />
+    <state width="689" height="201" key="GridCell.Tab.0.bottom" timestamp="1595854242359">
+      <screen x="0" y="23" width="1440" height="828" />
     </state>
     <state width="689" height="201" key="GridCell.Tab.0.bottom/0.23.1440.826@0.23.1440.826" timestamp="1595790884696" />
-    <state width="689" height="201" key="GridCell.Tab.0.center" timestamp="1595790884695">
-      <screen x="0" y="23" width="1440" height="826" />
+    <state width="689" height="201" key="GridCell.Tab.0.bottom/0.23.1440.828@0.23.1440.828" timestamp="1595854242359" />
+    <state width="689" height="201" key="GridCell.Tab.0.center" timestamp="1595854242358">
+      <screen x="0" y="23" width="1440" height="828" />
     </state>
     <state width="689" height="201" key="GridCell.Tab.0.center/0.23.1440.826@0.23.1440.826" timestamp="1595790884695" />
-    <state width="689" height="201" key="GridCell.Tab.0.left" timestamp="1595790884695">
-      <screen x="0" y="23" width="1440" height="826" />
+    <state width="689" height="201" key="GridCell.Tab.0.center/0.23.1440.828@0.23.1440.828" timestamp="1595854242358" />
+    <state width="689" height="201" key="GridCell.Tab.0.left" timestamp="1595854242358">
+      <screen x="0" y="23" width="1440" height="828" />
     </state>
     <state width="689" height="201" key="GridCell.Tab.0.left/0.23.1440.826@0.23.1440.826" timestamp="1595790884695" />
-    <state width="689" height="201" key="GridCell.Tab.0.right" timestamp="1595790884696">
-      <screen x="0" y="23" width="1440" height="826" />
+    <state width="689" height="201" key="GridCell.Tab.0.left/0.23.1440.828@0.23.1440.828" timestamp="1595854242358" />
+    <state width="689" height="201" key="GridCell.Tab.0.right" timestamp="1595854242359">
+      <screen x="0" y="23" width="1440" height="828" />
     </state>
     <state width="689" height="201" key="GridCell.Tab.0.right/0.23.1440.826@0.23.1440.826" timestamp="1595790884696" />
+    <state width="689" height="201" key="GridCell.Tab.0.right/0.23.1440.828@0.23.1440.828" timestamp="1595854242359" />
     <state width="689" height="249" key="GridCell.Tab.1.bottom" timestamp="1595788423584">
       <screen x="0" y="23" width="1440" height="826" />
     </state>
@@ -281,18 +284,21 @@
       <screen x="0" y="23" width="1440" height="826" />
     </state>
     <state width="500" height="445" key="SwitcherDM/0.23.1440.826@0.23.1440.826" timestamp="1595506390688" />
-    <state x="320" y="176" key="Vcs.Push.Dialog.v2" timestamp="1595512196888">
-      <screen x="0" y="23" width="1440" height="826" />
+    <state x="320" y="176" key="Vcs.Push.Dialog.v2" timestamp="1596090337277">
+      <screen x="0" y="23" width="1440" height="827" />
     </state>
     <state x="320" y="176" key="Vcs.Push.Dialog.v2/0.23.1440.826@0.23.1440.826" timestamp="1595512196888" />
+    <state x="320" y="176" key="Vcs.Push.Dialog.v2/0.23.1440.827@0.23.1440.827" timestamp="1596090337277" />
+    <state x="320" y="176" key="Vcs.Push.Dialog.v2/0.23.1440.828@0.23.1440.828" timestamp="1595854342555" />
     <state x="120" y="143" width="1200" height="586" key="com.intellij.history.integration.ui.views.RecentChangeDialog" timestamp="1595506771276">
       <screen x="0" y="23" width="1440" height="826" />
     </state>
     <state x="120" y="143" width="1200" height="586" key="com.intellij.history.integration.ui.views.RecentChangeDialog/0.23.1440.826@0.23.1440.826" timestamp="1595506771276" />
-    <state x="511" y="357" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1595506771253">
-      <screen x="0" y="23" width="1440" height="826" />
+    <state x="511" y="358" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1595854284497">
+      <screen x="0" y="23" width="1440" height="828" />
     </state>
     <state x="511" y="357" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.826@0.23.1440.826" timestamp="1595506771253" />
+    <state x="511" y="358" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.828@0.23.1440.828" timestamp="1595854284497" />
     <state x="369" y="159" width="700" height="530" key="recent.locations.popup" timestamp="1595506406408">
       <screen x="0" y="23" width="1440" height="826" />
     </state>
