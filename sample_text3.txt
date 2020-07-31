@@ -1,5 +1,0 @@
-Ivanov 20000
-Petrov 15000
-Zaytsev 40000
-Juldulberg 3000
-Bekov 10000
